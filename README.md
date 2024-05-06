@@ -5,7 +5,7 @@
 > 2. Install git bash
 > 3. Configure git bash using your information
 > 4. Download [VS Code](https://code.visualstudio.com/) and check if it shows the presence of git or not
-> 5. Make a new folder in your local computer and open it in vs code
+> 5. Make a new folder in your local computer and open it in VS Code
 > 6. Clone your repository to VS Code
 > 7. Make changes and perform add, commit and push to your github
 
@@ -21,7 +21,7 @@ Git status will displays you the status of current repository
 `git status`
 
 ### Clone git with github
-You can clone you github with VS Code by the  help of link address under "HTTPS" and paste it to terminal of in-build VS CODE
+You can clone you github with VS Code by the  help of link address under "HTTPS" and paste it to terminal of in-build VS CODE <br>
 `git clone [link address]`
 
 ### Add file to repository
@@ -33,5 +33,5 @@ You can clone you github with VS Code by the  help of link address under "HTTPS"
 ### Push changes to GitHub
 `git push origin main`
 
-[!Note] 
-Before you add your file to your repository, it will show status as **_modified_** in red color but will show **_modified_** in green after you add it to repository as check your status.
+> [!Note] 
+> Before you add your file to your repository, it will show status as **_modified_** in red color but will show **_modified_** in green after you add it to repository as check your status.
