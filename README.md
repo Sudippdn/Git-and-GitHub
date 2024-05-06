@@ -10,14 +10,14 @@
 > 7. Make changes and perform add, commit and push to your github
 
 ## Git Configuration
-Configure user information for all local repositories
+Configure user information for all local repositories <br>
 `$ git config --global user.name "[name]"`
 
-Sets the name you want attached to your commit transactions
+Sets the name you want attached to your commit transactions <br>
 `$ git config --global user.email "[email address]"`
 
 ### Check git status
-Git status will displays you the status of current repository
+Git status will displays you the status of current repository <br>
 `git status`
 
 ### Clone git with github
