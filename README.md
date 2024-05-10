@@ -22,7 +22,6 @@ Git status will displays you the status of current repository <br>
 =======
 ### Check git status 
 Git status will displays you the status of current repository.
->>>>>>> 59109b0 (changes)
 `git status`
 
 ### Clone git with github
