@@ -16,12 +16,11 @@ Configure user information for all local repositories <br>
 Sets the name you want attached to your commit transactions <br>
 `$ git config --global user.email "[email address]"`
 
-<<<<<<< HEAD
 ### Check git status
 Git status will displays you the status of current repository <br>
 =======
 ### Check git status 
-Git status will displays you the status of current repository.
+Git status will displays you the status of current repository. <br>
 `git status`
 
 ### Clone git with github
