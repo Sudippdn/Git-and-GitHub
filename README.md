@@ -1,4 +1,4 @@
-# This is a testing git clone using git and vs code 
+**In this repository, you can find how to download and use git**
 
 > ## Steps involved in git and github
 > 1. Download git using [download git](https://git-scm.com/download/win)
@@ -33,5 +33,5 @@ You can clone you github with VS Code by the  help of link address under "HTTPS"
 ### Push changes to GitHub
 `git push origin main`
 
-> [!Note] 
-> Before you add your file to your repository, it will show status as **_modified_** in red color but will show **_modified_** in green after you add it to repository as check your status.
+[!Note] 
+Before you add your file to your repository, it will show status as **_modified_** in red color but will show **_modified_** in green after you add it to repository as check your status.
