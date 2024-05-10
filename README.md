@@ -18,7 +18,7 @@ Sets the name you want attached to your commit transactions <br>
 
 ### Check git status
 Git status will displays you the status of current repository <br>
-=======
+
 ### Check git status 
 Git status will displays you the status of current repository. <br>
 `git status`
